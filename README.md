@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Gururajv007/gururajv007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gururaj 👋
 
-Here are some ideas to get you started:
+Supply Chain Analyst III focused on **data analytics, automation, and scalable reporting**.
+I enjoy turning messy operational data into clear insights and reliable processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m working on
+- Building analytics & scorecards for supply chain / procurement performance
+- Improving data quality, refresh reliability, and documentation for dashboards
+- Learning best practices for git-based collaboration (PRs, branching, reviews)
+
+## 🧰 Tools & Skills
+- **Analytics:** Power BI, Excel, SQL (basics)
+- **Automation:** Power Automate (basics), process standardization
+- **Collaboration:** Git/GitHub workflows, documentation, stakeholder communication
+
+## 📌 Highlights
+- Structured KPI/scorecard thinking (metrics → definitions → governance)
+- Strong focus on repeatable processes and clear documentation
+
+## 🤝 Let’s connect
+- LinkedIn: linkedin.com/in/gururaj-v-780a7728
+- Email: gururajv007@gmail.com
